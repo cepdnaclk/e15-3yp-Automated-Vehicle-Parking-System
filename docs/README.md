@@ -3,8 +3,8 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: eYY-3yp-project-template
-title:
+repository-name: e15-3yp-Automated-Vehicle-Parking-System
+title: Automated Vehicle Parking System
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
