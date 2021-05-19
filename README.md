@@ -1,55 +1,74 @@
-# eYY-3yp-project-template
+---
+layout: home
+permalink: index.html
 
-This is a sample repository you can use for your Embedded Systems project. Once you followed these instructions, remove the text and add a brief introduction to here.
+# Please update this with your repository name and title
+repository-name: e15-3yp-Automated-Vehicle-Parking-System
+title: Automated Vehicle Parking System
+---
 
-### Enable GitHub Pages
+[comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-You can put the things to be shown in GitHub pages into the _docs/_ folder. Both html and md file formats are supported. You need to go to settings and enable GitHub pages and select _main_ branch and _docs_ folder from the dropdowns, as shown in the below image.
+# Automated Vehicle Parking System
 
-![image](https://user-images.githubusercontent.com/11540782/98789936-028d3600-2429-11eb-84be-aaba665fdc75.png)
+---
 
-### Special Configurations
+## Team
+-  E/15/076, DILEKA J.H.S., [sandushidileka2@gmail.com](mailto:sandushidileka2@gmail.com)
+-  E/15/065, DE SILVA K.G.P.M., [prasadmadusankadasilva@gmail.com](mailto:prasadmadusankadasilva@gmail.com)
+-  E/15/220, MALITHTHA K.H.H., [maliththamax@gmail.com](mailto:maliththamax@gmail.com)
 
-These projects will be automatically added into [https://projects.ce.pdn.ac.lk](). If you like to show more details about your project on this site, you can fill the parameters in the file, _/docs/index.json_
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Solution Architecture](#solution-architecture )
+3. [Hardware & Software Designs](#hardware-and-software-designs)
+4. [Links](#links)
 
-```
-{
-  "visibility": false,
-  "title": "This is the title of the project",
-  "team": [
-    {
-      "name": "Team Member Name 1",
-      "email": "email@eng.pdn.ac.lk",
-      "eNumber": "E/yy/xxx"
-    },
-    {
-      "name": "Team Member Name 2",
-      "email": "email@eng.pdn.ac.lk",
-      "eNumber": "E/yy/xxx"
-    },
-    {
-      "name": "Team Member Name 3",
-      "email": "email@eng.pdn.ac.lk",
-      "eNumber": "E/yy/xxx"
-    }
-  ],
-  "supervisors": [
-    {
-      "name": "Dr. Supervisor 1",
-      "email": "email@eng.pdn.ac.lk"
-    },
-    {
-      "name": "Supervisor 2",
-      "email": "email@eng.pdn.ac.lk"
-    }
-  ],
-  "description": "This is a brief introduction of the project. You need to use plain text without any specific characters here",
-  "tags": ["Web", "Embedded Systems"]
-}
-```
+---
 
-Once you filled this _index.json_ file, please verify the syntax is correct. (You can use [this](https://jsonlint.com/) tool). Then change the _'visibility'_ property of the above json to _true_.
+## Introduction
 
-### Page Theme
+Vehicle Parking areas usually have people who give printed tickets for parking. This consumes a lot of time and which causes a lot of traffic. Along with causing traffic and commotion, there is also a lot of paper litter outside the vehicle parking areas.As the number of vehicles are increasing, the problems faced by manual parking management system are also increasing. Such problems can be eliminated to some extent by implementing an intelligent parking system where the entry and exit of cars is monitored and payment is made easy with sensor technology.In order to avoid all of these, Automated Vehicle Parking System can be used. This project uses an RFID which can be swiped at the entrance.
 
-A custom theme integrated with this GitHub Page, which is based on [github.com/cepdnaclk/eYY-project-theme](https://github.com/cepdnaclk/eYY-project-theme). If you like to remove this default theme, you can remove the file, _docs/\_config.yml_
+## Solution Architecture
+
+* RFID Card for registered users  
+* Tag for unregistered users  
+* No paper tickets  
+* No waitings and checkings at the gate  
+* Time informed by a message  
+* Automated payments
+
+## Hardware and Software Designs  
+### Data Flow and Infrastructure  
+![Data Flow and Infrastructure](data/images/dataflow.PNG)  
+### Overall Process  
+![Overall Process](data/images/process.PNG)  
+### PCB Design for the Vehicle Parking System  
+![PCB Design for the Vehicle Parking System](data/images/PCBdesign.png)
+
+  
+
+ 
+
+
+## Links 
+
+### Document  
+- [Project Proposal](data/pdf/ProjectProposalRevision.pdf)
+
+### Testing  
+- [Progress](data/videos/Progress_1.mp4)
+
+
+### Other Links
+- <a href = "https://github.com/cepdnaclk/e15-3yp-Automated-Vehicle-Parking-System" target = "_blank"> Project Repository </a>
+- <a href = "https://cepdnaclk.github.io/e15-3yp-Automated-Vehicle-Parking-System/" target = "_blank">Project Page</a>
+- <a href = "http://www.ce.pdn.ac.lk/" target = "_blank">Department of Computer Engineering</a>
+- <a href = "https://eng.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
+
+
+
+
+[//]: # (Please refer this to learn more about Markdown syntax)
+[//]: # (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
