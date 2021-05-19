@@ -44,6 +44,7 @@ Vehicle Parking areas usually have people who give printed tickets for parking. 
 
 ## Hardware and Software Designs  
 ### Data Flow and Infrastructure  
+![Data Flow and Infrastructure](data/dataflow.PNG)
 
 
 
