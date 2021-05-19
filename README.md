@@ -41,11 +41,11 @@ Vehicle Parking areas usually have people who give printed tickets for parking. 
 
 ## Hardware and Software Designs  
 ### Data Flow and Infrastructure  
-![Data Flow and Infrastructure](data/images/dataflow.PNG)  
+![Data Flow and Infrastructure](docs/data/images/dataflow.PNG)  
 ### Overall Process  
-![Overall Process](data/images/process.PNG)  
+![Overall Process](docs/data/images/process.PNG)  
 ### PCB Design for the Vehicle Parking System  
-![PCB Design for the Vehicle Parking System](data/images/PCBdesign.png)
+![PCB Design for the Vehicle Parking System](docs/data/images/PCBdesign.png)
 
   
 
@@ -55,10 +55,10 @@ Vehicle Parking areas usually have people who give printed tickets for parking. 
 ## Links 
 
 ### Document  
-- [Project Proposal](data/pdf/ProjectProposalRevision.pdf)
+- [Project Proposal](docs/data/pdf/ProjectProposalRevision.pdf)
 
 ### Testing  
-- [Progress](data/videos/Progress_1.mp4)
+- [Progress](docs/data/videos/Progress_1.mp4)
 
 
 ### Other Links
