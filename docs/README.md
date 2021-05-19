@@ -51,24 +51,13 @@ Vehicle Parking areas usually have people who give printed tickets for parking. 
 ![PCB Design for the Vehicle Parking System](data/images/PCBdesign.png)
 
 
-## Testing
-
- testing done on hardware and software, detailed + summarized results
-
-## Detailed budget
-
- all items and costs
-
-| Item          | Quantity  | Unit Cost  | Total  |
-| ------------- |:---------:|:----------:|-------:|
-| Sample item   | 5         | 10 LKR     | 50 LKR |
-
-## Conclusion
-
- what was achieved, future developments, commercialization plans
-
-## Links
-
+## Links  
+  ### Document  
+- [Project Proposal](data/pdf/Project Proposal Revision.pdf)  
+  ### Testing  
+- [Progress](data/videos/Progress_1.mp4)
+  
+  ### Other Links
 - [Project Repository](https://github.com/cepdnaclk/{{ page.repository-name }}){:target="_blank"}
 - [Project Page](https://cepdnaclk.github.io/{{ page.repository-name}}){:target="_blank"}
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
