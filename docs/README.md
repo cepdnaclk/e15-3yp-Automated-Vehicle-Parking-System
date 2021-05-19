@@ -22,10 +22,7 @@ title: Automated Vehicle Parking System
 1. [Introduction](#introduction)
 2. [Solution Architecture](#solution-architecture )
 3. [Hardware & Software Designs](#hardware-and-software-designs)
-4. [Testing](#testing)
-5. [Detailed budget](#detailed-budget)
-6. [Conclusion](#conclusion)
-7. [Links](#links)
+4. [Links](#links)
 
 ---
 
@@ -50,18 +47,27 @@ Vehicle Parking areas usually have people who give printed tickets for parking. 
 ### PCB Design for the Vehicle Parking System  
 ![PCB Design for the Vehicle Parking System](data/images/PCBdesign.png)
 
-
-## Links  
-  ### Document  
-- [Project Proposal](data/pdf/Project Proposal Revision.pdf)  
-  ### Testing  
-- [Progress](data/videos/Progress_1.mp4)
   
-  ### Other Links
-- [Project Repository](https://github.com/cepdnaclk/{{ page.repository-name }}){:target="_blank"}
+
+ 
+
+
+## Links 
+
+### Document  
+- [Project Proposal](data/pdf/ProjectProposalRevision.pdf)
+
+### Testing  
+- [Progress](data/videos/Progress_1.mp4)
+
+
+### Other Links
+- [Project Repository](https://github.com/cepdnaclk/e15-3yp-Automated-Vehicle-Parking-System){:target="_blank"}
 - [Project Page](https://cepdnaclk.github.io/{{ page.repository-name}}){:target="_blank"}
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
+
+
 
 
 [//]: # (Please refer this to learn more about Markdown syntax)
