@@ -9,14 +9,14 @@ title: Automated Vehicle Parking System
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# Automated Vehicle Parking System
 
 ---
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  E/15/076, DILEKA J.H.S., [sandushidileka2@gmail.com](mailto:sandushidileka2@gmail.com)
+-  E/15/065, DE SILVA K.G.P.M., [prasadmadusankadasilva@gmail.com](mailto:prasadmadusankadasilva@gmail.com)
+-  E/15/220, MALITHTHA K.H.H., [maliththamax@gmail.com](mailto:maliththamax@gmail.com)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -31,15 +31,22 @@ title: Automated Vehicle Parking System
 
 ## Introduction
 
- description of the real world problem and solution, impact
+Vehicle Parking areas usually have people who give printed tickets for parking. This consumes a lot of time and which causes a lot of traffic. Along with causing traffic and commotion, there is also a lot of paper litter outside the vehicle parking areas.As the number of vehicles are increasing, the problems faced by manual parking management system are also increasing. Such problems can be eliminated to some extent by implementing an intelligent parking system where the entry and exit of cars is monitored and payment is made easy with sensor technology.In order to avoid all of these, Automated Vehicle Parking System can be used. This project uses an RFID which can be swiped at the entrance.
 
 ## Solution Architecture
 
- high level diagram + description
+* RFID Card for registered users  
+* Tag for unregistered users  
+* No paper tickets  
+* No waitings and checkings at the gate  
+* Time informed by a message  
+* Automated payments
 
-## Hardware and Software Designs
+## Hardware and Software Designs  
+### Data Flow and Infrastructure  
 
- detailed designs with many sub-sections
+
+
 
 ## Testing
 
