@@ -62,10 +62,10 @@ Vehicle Parking areas usually have people who give printed tickets for parking. 
 
 
 ### Other Links
-- [Project Repository](https://github.com/cepdnaclk/e15-3yp-Automated-Vehicle-Parking-System){:target="_blank"}
-- [Project Page](https://cepdnaclk.github.io/e15-3yp-Automated-Vehicle-Parking-System/){:target="_blank"}
-- [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
-- [University of Peradeniya](https://eng.pdn.ac.lk/)
+- <a href = "https://github.com/cepdnaclk/e15-3yp-Automated-Vehicle-Parking-System" target = "_blank"> Project Repository </a>
+- <a href = "https://cepdnaclk.github.io/e15-3yp-Automated-Vehicle-Parking-System/" target = "_blank">Project Page</a>
+- <a href = "http://www.ce.pdn.ac.lk/" target = "_blank">Department of Computer Engineering</a>
+- <a href = "https://eng.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
 
 
 
