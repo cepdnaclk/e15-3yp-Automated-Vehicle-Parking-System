@@ -1,34 +1,28 @@
 {
-    "title": "This is the title of the project",
+    "title": "Automated Vehicle Parking System",
     "team": [
         {
-            "name": "Team Member Name 1",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx",
-            "github_profile":"#",
-            "linkedin_profile":"#"
+            "name": "DILEKA J.H.S.",
+            "email": "sandushidileka2@gmail.com",
+            "eNumber": "E/15/076"
         },
         {
-            "name": "Team Member Name 2",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx",
-            "github_profile":"#",
-            "linkedin_profile":"#"
+            "name": "DE SILVA K.G.P.M.",
+            "email": "prasadmadusankadasilva@gmail.com",
+            "eNumber": "E/15/065"
         },
         {
-            "name": "Team Member Name 3",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx",
-            "github_profile":"#",
-            "linkedin_profile":"#"
+            "name": "MALITHTHA K.H.H.",
+            "email": "maliththamax@gmail.com",
+            "eNumber": "E/15/220"
         }
     ],
     "supervisors": [
         {
-            "name": "Dr. Supervisor 1",
-            "email": "email@eng.pdn.ac.lk",
-            "linkedin_profile":"#",
-            "researchgate_profile":"#"
+            "name": "Prof. Roshan G. Ragel",
+            "email": "roshanr@eng.pdn.ac.lk",
+            "linkedin_profile":"https://www.linkedin.com/in/roshanragel/",
+            "researchgate_profile":"https://www.researchgate.net/profile/Roshan-Ragel"
         },
         {
             "name": "Supervisor 2",
@@ -37,5 +31,5 @@
             "researchgate_profile":"#"
         }
     ],
-    "tags": ["Web", "Embedded Systems"]
+    "tags": []
 }
